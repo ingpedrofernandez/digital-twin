@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "DIGITAL TWIN",
-  description: "Digital Twin of Ing. Pedro Fernandez Mora",
+  title: "Ing. Pedro Fernandez´s Digital Twin",
+  description: "AI Digital Twin of Ing. Pedro Fernandez",
 };
 
 export default function RootLayout({
